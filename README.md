@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib scikit-learn tensorflow
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/Abhishek0-7/AI_Hackathon.git
    cd stock-price-prediction
    ```
 
